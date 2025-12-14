@@ -52,7 +52,7 @@ Develop strong intuition for data behavior, predictive modeling, and generalizat
 🔗 Repos:  
 - [EDA – NYC Taxi Analysis](https://github.com/DhritiAM/EDA-NYC-taxi)  
 - [Linear Regression – Car Price Prediction](https://github.com/DhritiAM/car_price_prediction_linear_regression)  
-- [Logistic Regression – Employee Attrition](https://github.com/DhritiAM/logistic_regression_employee_attrition), Medium article: (https://medium.com/@amdhriti/logistic-regression-under-the-hood-4369f51d22ef)
+- [Logistic Regression – Employee Attrition](https://github.com/DhritiAM/logistic_regression_employee_attrition), [Medium article](https://medium.com/@amdhriti/logistic-regression-under-the-hood-4369f51d22ef)
 
 
 
